@@ -6,7 +6,7 @@ This is an application build to exercise Qt.
 
 <img src= "todo.png"/>
 
-As shown in the image, the application have 3 basic functions:
+As shown in the image, the application has 3 basic functions:
 
 1) You can add a new item to the list.
   When the Add New button is clicked, a new window is opened containing a calendar widget from which you can select an end date for the item. You can also specify a description for the item in this window.
