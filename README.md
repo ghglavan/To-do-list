@@ -13,5 +13,5 @@ As shown in the image, the application has 3 basic functionalities:
 2) You can delete an item from the list. 
   This action is very simple because every item is stored internally as a linked list so deletion of an item becomes deletion of a node of the list.
 3) You can save the new changes.
-  The save is about a file stored in the same folder as the executable. In this file is stored every item and every time the application starts, it builds the linked list based on this file. When the Save button is pressed, this file is replaced with the new list from the application memory.
+  The saving process is about a file stored in the same folder as the executable. In this file is stored every item and every time the application starts, it builds the linked list based on this file. When the Save button is pressed, this file is replaced with the new list from the application memory.
 
